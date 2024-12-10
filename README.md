@@ -1,6 +1,6 @@
 <h1 align="center">Ricardo Navarrete</h1>
 
-Programador con dos años de experiencia en el desarrollo y mejora de sistemas y aplicaciones, centrado en la resolución eficiente de problemas utilizando habilidades sólidas en programación. Habilidades destacadas en JavaScript, HTML5, CSS, PHP, SQL y manejo de base de datos, con un enfoque en la mejora continua y el dominio de nuevas tecnologías para ofrecer soluciones efectivas en el campo del desarrollo web.
+Programador con tres años de experiencia en el desarrollo y mejora de sistemas y aplicaciones. Enfocado en la resolución eficiente de problemas y el soporte técnico, busca colaborar en un entorno dinámico que promueva la innovación y el crecimiento profesional. Destaca por su capacidad de adaptarse a nuevos desafíos y su enfoque en la mejora continua para ofrecer soluciones efectivas.
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
