@@ -1,6 +1,6 @@
 <h1 align="center">Ricardo Navarrete</h1>
 
-Programador con tres años de experiencia en el desarrollo y mejora de sistemas y aplicaciones. Enfocado en la resolución eficiente de problemas y el soporte técnico, busca colaborar en un entorno dinámico que promueva la innovación y el crecimiento profesional. Destaca por su capacidad de adaptarse a nuevos desafíos y su enfoque en la mejora continua para ofrecer soluciones efectivas.
+Ingeniero informático con tres años de experiencia en el desarrollo y optimización de sistemas y aplicaciones. Apasionado por el desarrollo web y de aplicaciones, con un fuerte interés en la tecnología y la inteligencia artificial, y en aprendizaje continuo para estar siempre actualizado.
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
