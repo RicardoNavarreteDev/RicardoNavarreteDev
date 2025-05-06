@@ -1,6 +1,6 @@
 <h1 align="center">Ricardo Navarrete</h1>
 
-Ingeniero informático con tres años de experiencia en el desarrollo y optimización de sistemas y aplicaciones. Apasionado por el desarrollo web y de aplicaciones, con un fuerte interés en la tecnología y la inteligencia artificial, y en aprendizaje continuo para estar siempre actualizado.
+Ingeniero informático con experiencia en el desarrollo y optimización de sistemas y aplicaciones. Apasionado por el desarrollo web y aplicaciones, con un fuerte interés en la tecnología y la inteligencia artificial, y en aprendizaje continuo para estar siempre actualizado.
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -45,9 +45,6 @@ Ingeniero informático con tres años de experiencia en el desarrollo y optimiza
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
