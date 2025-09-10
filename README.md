@@ -79,8 +79,7 @@
 
 ### Estadísticas de GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dark" alt="GitHub Streak" />
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
 
 
 <p align="center">❤Ricardo Navarrete</p>
