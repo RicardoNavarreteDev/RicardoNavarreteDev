@@ -74,20 +74,31 @@
   </a>
 </p>
 
-
 <br>
 
-### Estadísticas de GitHub
+### 🚀 Stack Favorito
+**Frontend:** 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25" />
+
+**Backend:** 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+
+**Base de Datos:** 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="25" height="25" />
+
+**DevOps & Testing:** 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25" />
+
+**Arquitectura:** Microservicios 🏗️
 
 
-<p align="center">
-  <!-- Fila superior: GitHub Stats y Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&count_private=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="GitHub Stats" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dracula" alt="GitHub Streak" width="300"/>
-  <br><br>
-  <!-- Fila inferior: GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RicardoNavarreteDev&theme=onedark" alt="GitHub Trophies" width="300"/>
-</p>
 
 
 
