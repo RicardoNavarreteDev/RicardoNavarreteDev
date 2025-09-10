@@ -79,19 +79,7 @@
 
 ### Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNavarreteDev&layout=compact&theme=dark" alt="Lenguajes principales" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dark" alt="GitHub Streak" />
-</p>
-
-<br>
+<img src="https://github.com/RicardoNavarreteDev.png?size=230" alt="RicardoNavarreteDev" />
 
 
 <p align="center">❤Ricardo Navarrete</p>
