@@ -79,7 +79,9 @@
 
 ### Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&show_icons=true&theme=dark&include_all_commits=true" />
+<p align="center">
+  <img src="https://github.com/RicardoNavarreteDev/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
 <br>
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
