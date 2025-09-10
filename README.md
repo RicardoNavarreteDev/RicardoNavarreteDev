@@ -79,6 +79,9 @@
 
 ### Estadísticas de GitHub
 
+<img src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&show_icons=true&theme=dark&include_all_commits=true" />
+<br>
+
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
 
 
