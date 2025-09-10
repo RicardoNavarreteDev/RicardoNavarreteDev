@@ -79,7 +79,8 @@
 
 ### Estadísticas de GitHub
 
-<img src="https://github.com/RicardoNavarreteDev.png?size=230" alt="RicardoNavarreteDev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dark" alt="GitHub Streak" />
 
 
 <p align="center">❤Ricardo Navarrete</p>
