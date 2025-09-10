@@ -79,19 +79,9 @@
 
 ### Estadísticas de GitHub
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&count_private=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dracula" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=RicardoNavarreteDev&theme=onedark" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&count_private=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="GitHub Stats" width="300"/> &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dracula" alt="GitHub Streak" width="300"/> &nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=RicardoNavarreteDev&theme=onedark" alt="GitHub Trophies" width="300"/>
 </p>
 
 <br>
