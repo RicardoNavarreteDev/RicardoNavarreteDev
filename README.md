@@ -79,15 +79,20 @@
 
 ### Estadísticas de GitHub
 <p align="center">
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
-	/>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham4abc&theme=dracula">
-	<img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=RicardoNavarreteDev&theme=onedark"
-	/>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=RicardoNavarreteDev&count_private=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+      alt="GitHub Stats"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoNavarreteDev&theme=dracula"
+      alt="GitHub Streak"
+    />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=RicardoNavarreteDev&theme=onedark"
+      alt="GitHub Trophies"
+    />
+  </div>
 </p>
 <br>
 
