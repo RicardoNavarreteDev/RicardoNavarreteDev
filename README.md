@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Ricardo Navarrete</h1>
-<h3 align="center">Ingeniero informático, Inacap🌟.</h3>
+<h3 align="center">Ingeniero informático.</h3>
 
 <p align="center">
-  Con experiencia en el desarrollo y optimización de sistemas y aplicaciones. Apasionado por el desarrollo web y móvil, con un fuerte interés en la tecnología, la inteligencia artificial y el aprendizaje continuo.
+  Con experiencia en el desarrollo y optimización de sistemas y aplicaciones. Apasionado por el desarrollo web y móvil, apasionado de la tecnología, la inteligencia artificial.
 </p>
 
 
@@ -15,7 +15,7 @@
 
 - 📫 Contáctame **ricardo.navarrete.soto@gmail.com**
 
-- ⚡ Pasatiempos : Deporte, Comida y Música🎵.
+- ⚡ Pasatiempos : Deporte, Leer y Música🎵.
 
 <br>
 
