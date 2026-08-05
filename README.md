@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero informático.</h3>
 
 <p align="center">
-  Con experiencia en el desarrollo y optimización de sistemas y aplicaciones. Apasionado por el desarrollo web y móvil, apasionado de la tecnología, la inteligencia artificial.
+ 🚀 Ingeniero en Informática apasionado por el desarrollo de software, con experiencia en aplicaciones web y optimización de sistemas. Disfruto construir proyectos de principio a fin, aprender nuevas tecnologías y compartir conocimiento. Mi enfoque principal está en el desarrollo backend con Node.js y TypeScript, sin dejar de explorar frontend, DevOps e Inteligencia Artificial para crear soluciones completas y de calidad.
 </p>
 
 
