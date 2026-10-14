@@ -1,119 +1,77 @@
-<h1 align="center">Hola 👋, Soy Ricardo Navarrete</h1>
-<h3 align="center">Ingeniero informático.</h3>
+# Hola, soy Ricardo Navarrete 👋
 
-<p align="center">
- 🚀 Apasionado por el desarrollo de software, con experiencia en aplicaciones web y optimización de sistemas. Disfruto construir proyectos de principio a fin, aprender nuevas tecnologías y compartir conocimiento. Mi enfoque principal está en el desarrollo backend con Node.js y TypeScript, sin dejar de explorar frontend, DevOps e Inteligencia Artificial para crear soluciones completas y de calidad.
-</p>
+### Ingeniero en Informática | Desarrollador Full Stack
 
+Soy desarrollador de software con experiencia en la creación y mantenimiento de aplicaciones web, plataformas internas e integración de sistemas.
 
-<br>
+Me gusta entender cómo funcionan las cosas, encontrar soluciones a problemas reales y construir aplicaciones que sean funcionales, seguras y fáciles de mantener.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+Actualmente estoy enfocado en fortalecer mi especialización en **desarrollo backend con Node.js y TypeScript**, mientras continúo explorando tecnologías frontend, infraestructura, automatización e inteligencia artificial.
 
+📍 Santiago, Chile 🇨🇱
 
-- 🌱 Constantemente aprendiendo del desarrollo fullstack
+### 💻 Tecnologías y herramientas
 
-- 📫 Contáctame **ricardo.navarrete.soto@gmail.com**
+**Backend**
+- Node.js · Express · TypeScript · PHP
+- APIs REST · JWT · Autenticación
 
-- ⚡ Pasatiempos : Deporte, Leer y Música🎵.
+**Frontend**
+- React · Next.js · Vue.js
+- JavaScript · HTML5 · CSS3 · Tailwind CSS
 
-<br>
+**Bases de datos**
+- PostgreSQL · MySQL · MongoDB
+- Prisma · Sequelize
 
-<h3 align="left">Connect conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ricardo-navarrete-soto/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Ricardo Navarrete" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/rnavarretes/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://x.com/ranavarretes" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ricardonavarrete" height="30" width="40" /></a>
-</p>
+**DevOps e infraestructura**
+- Docker · Linux · Nginx
+- Git · GitHub · GitHub Actions
+- CI/CD · Fundamentos de cloud
 
-<br>
+**Otras áreas de interés**
+- Inteligencia artificial aplicada al desarrollo
+- Automatización de procesos
+- Arquitectura y rendimiento de aplicaciones
+- Seguridad de aplicaciones web
 
-<br>
+### 🚀 Proyectos destacados
 
-<h3 align="left">Lenguajes y Tecnologías:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-</p>
+**Project Manager**
 
-<br>
+Aplicación Full Stack para la gestión de proyectos, tareas y equipos, con autenticación, API REST y base de datos MongoDB.
 
-### 🚀 Stack Favorito
-**Frontend:** 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25" />
+[Ver repositorio](https://github.com/RicardoNavarreteDev/project-manager)
 
-**Backend:** 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+**Fresh Coffee Kiosk**
 
-**Base de Datos:** 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="25" height="25" />
+Sistema de gestión de pedidos con panel administrativo, persistencia de datos y funcionalidades para la administración de productos.
 
-**DevOps & Testing:** 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25" />
+[Ver repositorio](https://github.com/RicardoNavarreteDev/fresh-coffee-kiosk)
 
-**Arquitectura:** Microservicios 🏗️
+**Bot WhatsApp con IA**
 
+Integración de WhatsApp Cloud API con un modelo de inteligencia artificial local mediante Ollama y Node.js.
 
-<br>
+[Ver repositorio](https://github.com/RicardoNavarreteDev/BotWhatsap-IA)
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+### 🌱 Actualmente
 
+- Profundizando mis conocimientos en Node.js, TypeScript y arquitectura backend.
+- Desarrollando proyectos personales y soluciones Full Stack.
+- Aprendiendo sobre infraestructura, contenedores y despliegue de aplicaciones.
+- Explorando herramientas y agentes de IA para optimizar el desarrollo de software.
 
-<p align="center">❤Ricardo Navarrete</p>
+### 🤝 Conectemos
+
+Me interesa colaborar en proyectos tecnológicos, compartir conocimientos y seguir aprendiendo.
+
+📧 **Correo:** ricardo.navarrete.soto@gmail.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/ricardo-navarrete-soto/)
+
+💻 [GitHub](https://github.com/RicardoNavarreteDev)
+
+---
+
+*Fuera del código también disfruto el básquetbol, la lectura y la música.* 🏀
