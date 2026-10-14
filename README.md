@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ## 🙋‍♂️ Sobre mí
 
 ```typescript
@@ -21,58 +19,42 @@ class Desarrollador {
   profesion = "Ingeniero en Informática";
   ubicacion = "Santiago, Chile";
 
-  especialidades = [
+  enfoque = [
     "Desarrollo Backend",
     "Desarrollo Full Stack",
-    "APIs REST",
-    "Bases de Datos"
+    "Arquitectura de Software"
   ];
 
   tecnologias = {
-    backend: [
-      "Node.js", "TypeScript", "Express",
-      "NestJS", "PHP"
-    ],
-    frontend: [
-      "React", "Next.js", "Vue.js",
-      "Nuxt", "Tailwind CSS"
-    ],
-    basesDeDatos: [
-      "PostgreSQL", "MySQL", "MongoDB",
-      "Prisma", "Sequelize"
-    ],
-    infraestructura: [
-      "Docker", "Linux", "Nginx",
-      "GitHub Actions", "CI/CD"
-    ]
+    backend: ["Node.js", "TypeScript", "Express", "NestJS", "PHP"],
+    frontend: ["React", "Next.js", "Vue.js", "Nuxt", "Tailwind CSS"],
+    basesDeDatos: ["PostgreSQL", "MySQL", "MongoDB", "Prisma", "Sequelize"],
+    infraestructura: ["Docker", "Linux", "Nginx", "GitHub Actions"]
   };
 
+  experiencia = [
+    "Desarrollo de aplicaciones y plataformas web",
+    "Integración de APIs y bases de datos",
+    "Automatización y optimización de sistemas",
+    "Administración de infraestructura Linux"
+  ];
+
   aprendiendo = [
-    "Arquitectura de Software",
     "Cloud Computing",
     "Inteligencia Artificial",
     "Ciberseguridad"
   ];
 
-  intereses = [
-    "Básquetbol 🏀",
-    "Tecnología 💻",
-    "Lectura 📚",
-    "Música 🎵"
-  ];
+  intereses = ["Básquetbol 🏀", "Lectura 📚", "Música 🎵"];
 
-  presentarme(): void {
-    console.log(
-      "¡Gracias por visitar mi perfil!"
-    );
+  saludar(): void {
+    console.log("¡Gracias por visitar mi perfil!");
   }
 }
 
 const ricardo = new Desarrollador();
-ricardo.presentarme();
+ricardo.saludar();
 ```
-
-<br>
 
 <div align="center">
 
